@@ -1,5 +1,7 @@
 # Text Translator using React, Tailwind & RapidAPI
 
+**Note: The translation feature uses RapidAPI and requires an API key configured through environment variables. If the live demo does not display translations, please run the project locally after adding a valid "VITE_RAPIDAPI_KEY" in a ".env" file.**
+
 🌐 Live Demo: https://translator-one-psi.vercel.app/
 
 ## Project Overview
