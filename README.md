@@ -1,5 +1,7 @@
 # Text Translator using React, Tailwind & RapidAPI
 
+🌐 Live Demo: https://translator-one-psi.vercel.app/
+
 ## Project Overview
 
 This project was developed as a part of the Front-End Development Internship conducted by QSkill and SR India Pvt.Ltd.
